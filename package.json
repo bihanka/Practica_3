@@ -1,0 +1,13 @@
+{
+  "name": "mesa-viva",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Recetario Mesa Viva: registro validado, web service propio y API externa TheMealDB.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

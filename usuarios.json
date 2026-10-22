@@ -1,0 +1,23 @@
+[
+  {
+    "id": "fa70a0da-bf87-4ba0-8cc4-4e6662c90ed4",
+    "nombre": "Ana Lopez",
+    "correo": "ana.mesa@example.com",
+    "passwordHash": "scrypt$657418dde8db7053988b4c2dbb1e42cf$1686fe748d25c7a54ae69eb8868676658392108382a04e707f35178dd209c3f7",
+    "creadoEn": "2026-10-22T05:48:46.790Z"
+  },
+  {
+    "id": "bc7c62ff-0514-48b3-b7ce-7cfde7cbbf92",
+    "nombre": "Ana López",
+    "correo": "ana.lopez.clase@example.com",
+    "passwordHash": "scrypt$365b36d1ed47fc8b822e7b916eebd6f2$c704002f9f6af1dfe5791ff85f68489c33794b547c91b4ee31531447ba8a1111",
+    "creadoEn": "2026-10-22T05:52:40.127Z"
+  },
+  {
+    "id": "14e80f15-5738-48be-89b3-dc90e1f09a87",
+    "nombre": "Ana López",
+    "correo": "ana.clase@example.com",
+    "passwordHash": "scrypt$c94cef5703f68c1075f1eb3a2a3969cf$634a977f96bd31a34956e9171b6495f195a9555f4ff7582fbfc693c2bcd50a78",
+    "creadoEn": "2026-10-22T05:53:27.006Z"
+  }
+]

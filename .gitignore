@@ -1,0 +1,6 @@
+node_modules/
+.env
+data/usuarios.json
+entrega/png/
+entrega/album.html
+*.log
